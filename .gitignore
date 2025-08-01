@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Testing
+/test-results/
+/playwright-report/
+/playwright/.cache/
+
+# Build output
+/dist/
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
