@@ -30,7 +30,7 @@ test.describe('Visual Testing Demo', () => {
         await eyes.setConfiguration(configuration);
     });
 
-    test('Visual test with theme toggle', async ({ page }) => {
+    test('GitHub Copilot Visual test with theme toggle', async ({ page }) => {
         // Start the test
         await eyes.open(page);
 
